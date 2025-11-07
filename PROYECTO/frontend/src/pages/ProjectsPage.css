@@ -1,0 +1,112 @@
+
+.projects-container {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.projects-container h2, .projects-container h3 {
+  text-align: center;
+  color: #333;
+}
+.project-form {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color: #555;
+}
+.form-group input, .form-group textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+.form-group textarea {
+  min-height: 80px;
+  resize: vertical;
+}
+
+.btn {
+  padding: 0.75rem 1rem;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+.btn:hover {
+  opacity: 0.8;
+}
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+}
+.btn-danger {
+  background-color: #d9534f;
+  color: white;
+  font-size: 0.8rem;
+  padding: 0.4rem 0.8rem;
+}
+
+.project-list {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.project-card {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+.project-card h4 {
+  margin: 0 0 0.5rem 0;
+  color: #007bff;
+}
+.project-card p {
+  margin: 0 0 1rem 0;
+  color: #444;
+}
+.project-card small {
+  color: #777;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.error-message {
+  color: #d9534f;
+  background-color: #f2dede;
+  border: 1px solid #ebccd1;
+  padding: 0.75rem;
+  border-radius: 4px;
+  text-align: center;
+  margin: 1rem 0;
+}
+.success-message {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border: 1px solid #d6e9c6;
+  padding: 0.75rem;
+  border-radius: 4px;
+  text-align: center;
+  margin: 1rem 0;
+}

@@ -35,4 +35,3 @@
 > [!NOTE]
 > > siempre estar atentos a nuevas actulizacion de nuestro repositorio<br>
 
-<h2>:open_file_folder: Archivos importantes </h2>

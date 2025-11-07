@@ -29,9 +29,13 @@
       
   </tr>
 </table>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 > [!NOTE]
-> > siempre estar atentos a nuevas actulizacion de nuestro repositorio<br>
+primero se debe ejecutar el backend y despues nos dirijomos a la carprta de front y ejecutamos el comando npm run dev 
+<br>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
